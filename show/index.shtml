@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+	Copyright (c) 1999-2006  Noelani Sallings <noelani@sallings.org>
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+	<head>
+		<link rel="stylesheet" href="../style.css"/>
+		<title>Show-Music Rivals</title>
+	</head>
+	<body>
+		<!--#include virtual="../navbar.shtml"-->
+		<div id="maincontent">
+		<h1>Feburary 13, 2009</h1>
+		<h2>Show starts at 7:00 pm</h2>
+			<h3>
+			Tickets go on sale January 8th, 2009. They can be bought at the following locations:</h3>
+<ul>
+	<li>Santa Clara Unified School District Office Front Desk</li>
+	<li>Wilcox ASB Office</li>
+	<li>Santa Clara High School ASB Office</li>
+	<li>Peterson Middle School Main Office</li>
+	<li>Buscher Middle School Main Office</li>
+</ul>
+	<p>You can also purchase ticket by emailing Noelani Sallings at <a href="mailto:noelani@musicrivals.org">noelani@musicrivals.org</a> </p>
+	
+		</div>
+		<!--#include virtual="/footer.shtml"-->
+	</body>
+</html>

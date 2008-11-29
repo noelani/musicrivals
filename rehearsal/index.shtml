@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+	Copyright (c) 1999-2006  Noelani Sallings <noelani@sallings.org>
+	-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+	<head>
+		<link rel="stylesheet" href="../style.css" />
+		<title>Rehearsal Schedule-Music Rivals</title>
+		</head>
+		<body>
+			<!--#include virtual="../navbar.shtml"-->
+			<div id="maincontent">
+				<h1>Rehearsal Schedule</h1>
+				
+				<p>TBA</p>
+				
+				<h2>Dress Rehearsal Thursday, February 12, 2008 at 4:30 pm</h2>
+	
+	<p>Dress rehearsal will take place at Santa Clara High School Theatre. Plan on being there until 8:30 at the latest.  We will be running through the show in the order of the performance.  During this rehearsal we will be preparing all the lights, sound and stage placement for your act. You must be present at this rehearsal. Food will be provided.</p>
+
+
+				<h2>Friday, February 13th check in 4:45 pm. </h2>
+				<p>Check in with Stage Manager-TBA. A final 5 minutes sound check will be performed with each act.  After your sound check you must stay back stage.  Be prepared to be back there for the entire show.  Only participants can be back stage, NO OTHER FRIENDS OR FAMILY. You can leave during the intermission but must be back stage when the lights go out.  Snacks and dinner provided.</p> 
+
+				<p>You must stay for the entire show.  You will be taking final bows at the end of the show.</p>
+			
+				<p>Please contact Noelani Sallings at <a href="mailto:noelani@musicrivals.org">noelani@musicrivals.org</a> if you have any questions.
+				</p>
+					
+		</div>
+		<!--#include virtual="/footer.shtml"-->
+	</body>
+</html>

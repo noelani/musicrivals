@@ -1,0 +1,40 @@
+<div id="header">
+	<img src="../navbar.png" alt="nav bar"/>
+</div>
+
+<div id="navbar">
+
+	<ul>
+		<li id="navhome">
+			<a href="/"><span>Home</span><img src="/home.png" alt="home"/></a>
+		</li>
+		
+		<li id="navinfo">
+			<a href="/info/"><span>Info</span><img src="/info.png" alt="info"/></a>
+		</li>
+		
+		<li id="navcat">
+			<a href="/finalist/"><span>Finalists</span><img src="/finalist.png" alt="finalists"/></a>
+		</li>
+		
+		<li id="navre">
+			<a href="/rehearsal"><span>Rehearsal</span><img src="/re.png" alt="rehearsal"/></a>
+		</li>
+		
+		<li id="navrules">
+			<a href="/rules/"><span>Rules</span><img src="/rules.png" alt="rules"/></a>
+		</li>
+		
+		<li id="navshow">
+			<a href="/show/"><span>Show</span><img src="/show.png" alt="show"/></a>
+		</li>
+		
+		<li id="navdonation">
+			<a href="/donation"><span>Donations</span><img src="/donations.png" alt="donations"/></a></li>
+		
+		<li id="navcontact">
+			<a href="/contact/"><span>Contact</span><img src="/contact.png" alt="contact"/></a>
+		</li>
+			
+	</ul>
+</div>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+	Copyright (c) 1999-2006  Noelani Sallings <noelani@sallings.org>
+	-->
+	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+	<head>
+		<link rel="stylesheet" href="../style.css" />
+		<title>Finalists-Music Rivals 2009</title>
+		</head>
+		<body>
+			<!--#include virtual="../navbar.shtml"-->
+			<div id="maincontent">
+<p>Finalist will be announced Monday, Dec 16 on the website and on the announcement of your school.</p>
+		
+<h2>Vocal</h2>
+
+<h2>Vocals with live accompaniment</h2>
+
+<h2>Instrumental</h2>
+
+<h2>Bands</h2>
+
+		</div>
+		<!--#include virtual="/footer.shtml"-->
+	</body>
+</html>

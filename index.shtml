@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+  Copyright (c) 1999-2006  Noelani Sallings <noelani@sallings.org>
+  -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+  <head>
+    <link rel="stylesheet" href="style.css" />
+    <title>Music Rivals</title>
+   </head>
+ <body>
+<!--#include virtual="navbar.shtml"-->
+
+
+<div id="maincontent">
+	<h1>Friday, February 13 at 7pm at Santa Clara High School Theatre</h1>
+	<h2>2009 <a href="/auditions/">auditions</a> are Saturday, Dec. 13 at Santa Clara High School Theatre</h2>
+	<h2>Music Rivals 2009 <a href="show">ticket information</a></h2>
+	<h2>What is Music Rivals?</h2>
+	<p>
+ Is a music contest to showcase middle school and high school musical talent in the school district.  Think Battle of the Bands and Idol mixed into one show.
+	</p>
+
+	<p>
+	This will be an actual stage production with lights, cameras and an audience.  Tickets will be sold for the event and all profits will go back into the schools of the district. All Winners will be given cash prizes. 
+	</p>
+
+	<!-- <h2><a href="/finalist/">Finalists</a> have been announced.</h2> -->
+	<h2>Want to Help out?</h2>
+	<p>There are many ways to help:</p>
+	<ul>
+		<li>Buy a <a href="show">ticket</a>, come and support our performers.</li>
+		<li>Download our <a href="../mrflyer.pdf">flyer</a> and let all your friends know.</li>
+	</ul>
+<h1>Winners from Music Rivals 2007</h1>
+<ul>
+	<li>Paula Garcia - vocals</li>
+	<li>Molly Meyers - vocals with Accompaniment</li>
+	<li>The Null - Band</li>
+	<li>Monchen Koa - Instrumental</li>
+</ul>
+	
+<h1>Winners from Music Rivals 2007</h1>
+<ul>
+	<li>Jodelanie Hoesktra - vocals</li>
+	<li>Disfuntion - Band</li>
+	<li>Umojia - Instrumental</li>
+</ul>
+
+</div>
+
+    <!--#include virtual="/footer.shtml"-->
+</body>
+</html>
